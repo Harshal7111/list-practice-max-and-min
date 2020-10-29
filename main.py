@@ -1,4 +1,4 @@
-score_list = []
+'''score_list = []
 len_list = int(input("Enter length of the list: "))
 
 for i in range(len_list):
@@ -20,6 +20,16 @@ for n in range(len_list-1):
     print()
   else:
     min_num = score_list[n+1]
-print(min_num)
+print(min_num)'''
+
+new_list = [10,40,25,35,44,70,50]
+count = 0
+for i in new_list:
+
+  count = count + 1
+
+  print(count)
+
+
 
   
